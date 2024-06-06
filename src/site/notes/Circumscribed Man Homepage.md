@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/circumscribed-man-homepage/","tags":["gardenEntry"]}
 ---
 
-# Circumscribed Man
+
+<div style="text-align: center;">
+	<h1>Circumscribed Man</h1>
+    <img src="https://i.imgur.com/c6UQ6gN_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image" width="600" height="600">
+</div>
 
 I'm starting to hate this introduction now. You see, I've been thinking about this for days! To be fair, I'm also mulling over how I want this cyber corner to look, so that's an excuse, like I always do when trying to write something. "War of Art" comes to mind, and before I completely derail from what this is supposed to be, welcome!
 
