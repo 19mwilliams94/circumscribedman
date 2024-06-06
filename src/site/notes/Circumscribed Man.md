@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/circumscribed-man/","tags":["gardenEntry"]}
 ---
 
+# Circumscribed Man
+
 I'm starting to hate this introduction now. You see, I've been thinking about this for days! To be fair, I'm also mulling over how I want this cyber corner to look, so that's an excuse, like I always do when trying to write something. "War of Art" comes to mind, and before I completely derail from what this is supposed to be, welcome!
 
 Now, I hate this intro not because I don't know what this website is all about, but because I have so many things I want to say without resorting to bullshit phrases like "the meaning of life" or "who am I?" And all those academic word salad metaphorical substrates. *wink*
