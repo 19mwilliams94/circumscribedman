@@ -36,4 +36,4 @@ pero hindi mo rin maitatama
 nang nakikipagtinginan lang
 sa mga kaya naman aminin
 
-#poetry/TL
+#poetry/TL #written 
