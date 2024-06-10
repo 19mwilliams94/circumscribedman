@@ -13,10 +13,26 @@
             margin: 0;
             padding: 0;
             display: flex;
-            justify-content: center;
+            flex-direction: column;
             align-items: center;
-            height: 100vh;
             background-color: #f0f0f0;
+        }
+        .gallery-header {
+            text-align: center;
+            width: 90vw;
+            max-width: 800px;
+            margin-top: 20px; /* Add top margin to center on the page */
+        }
+        .gallery-header img {
+            max-width: 100%;
+            height: auto;
+        }
+        .content {
+            width: 90vw;
+            max-width: 800px;
+            text-align: left;
+            margin-top: 20px;
+            margin-bottom: 20px;
         }
         .grid-container {
             display: grid;
@@ -53,13 +69,18 @@
     </style>
 </head>
 <body>
-<div style="text-align: center;">
-    <h1>Gallery</h1>
-    <h2>Silence of A Contemplative Life</h2>
-    <img src="https://i.imgur.com/aBsK8GA_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image" style="max-width: 100%; height: auto;">
-    <h4>Smile<hr>
-</div>
-<hr>
+    <div class="gallery-header">
+        <h1>Gallery</h1>
+        <h2>Silence of A Contemplative Life</h2>
+        <img src="https://i.imgur.com/aBsK8GA_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image">
+        <hr>
+    </div>
+
+    <div class="content">
+        <!-- Space for a paragraph or two -->
+        <p>Add your introductory text or paragraph here. This section can be used to describe the theme of the gallery or provide context for the images displayed below.</p>
+    </div>
+
     <div class="grid-container">
         <div class="grid-item"><a href="https://example.com/page1" target="_blank"><img src="https://i.imgur.com/zRzbKi4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Image 1"></a></div>
         <div class="grid-item"><a href="https://example.com/page2" target="_blank"><img src="https://i.imgur.com/ErA2nl4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Image 2"></a></div>
@@ -80,14 +101,4 @@
     </div>
 </body>
 </html>
-<hr>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
