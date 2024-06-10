@@ -73,13 +73,12 @@
         <h1>Gallery</h1>
         <h2>Silence of A Contemplative Life</h2>
         <img src="https://i.imgur.com/aBsK8GA_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image">
-        <h4>Smiling<h4>
         <hr>
     </div>
 
     <div class="content">
         <!-- Space for a paragraph or two -->
-        <p>Add your introductory text or paragraph here. This section can be used to describe the theme of the gallery or provide context for the images displayed below.</p>
+        <p></p>
     </div>
 
     <div class="grid-container">
