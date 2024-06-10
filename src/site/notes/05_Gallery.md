@@ -78,7 +78,9 @@
 
     <div class="content">
         <!-- Space for a paragraph or two -->
-        <p></p>
+        <p>I want to learn photography! But I rarely go outside to take photos so for now, I'll just share the images and paintings that interest me. I'll try to link them to its respective post so at least make this really boring of a website into a more engaging one, I think. They say a photograph paints a thousand word so that's a lot of words against my word count!</p>
+        <p> Yep, this is peak braining.</p>
+        <hr>
     </div>
 
     <div class="grid-container">
