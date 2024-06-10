@@ -73,6 +73,7 @@
         <h1>Gallery</h1>
         <h2>Silence of A Contemplative Life</h2>
         <img src="https://i.imgur.com/aBsK8GA_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image">
+        <h4>Smiling<h4>
         <hr>
     </div>
 
