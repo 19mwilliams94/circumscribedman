@@ -2,14 +2,6 @@
 {"dg-publish":true,"permalink":"/05-gallery/"}
 ---
 
-<div style="text-align: center;">
-    <h1>Gallery</h1>
-    <h2>Silence of A Contemplative Life</h2>
-    <img src="https://i.imgur.com/aBsK8GA_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image" style="max-width: 100%; height: auto;">
-    <h4>Smile<hr>
-</div>
-<hr>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -61,6 +53,13 @@
     </style>
 </head>
 <body>
+<div style="text-align: center;">
+    <h1>Gallery</h1>
+    <h2>Silence of A Contemplative Life</h2>
+    <img src="https://i.imgur.com/aBsK8GA_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image" style="max-width: 100%; height: auto;">
+    <h4>Smile<hr>
+</div>
+<hr>
     <div class="grid-container">
         <div class="grid-item"><a href="https://example.com/page1" target="_blank"><img src="https://i.imgur.com/zRzbKi4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Image 1"></a></div>
         <div class="grid-item"><a href="https://example.com/page2" target="_blank"><img src="https://i.imgur.com/ErA2nl4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Image 2"></a></div>
