@@ -20,7 +20,6 @@ Here's another interesting feature of this website, which is mind-blowing to me 
 Here:
 ![Indexmap](https://i.imgur.com/YMidL58.png)
 
-
-
+Enjoy!
 ___
 [obs]: https://obsidian.md/download
