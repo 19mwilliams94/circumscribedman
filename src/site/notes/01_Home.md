@@ -13,7 +13,7 @@ I'm starting to hate this introduction now. You see, I've been thinking about th
 
 Now, I hate this intro not because I don't know what this website is all about, but because I have so many things I want to say without resorting to bullshit phrases like "the meaning of life" or "who am I?" And all those academic word salad metaphorical substrates. *wink*
 
-For now, see what I have so far below. If you want to know more about why I bother, check the [[06_About\|06_About]] section, of course. And well, that section lacks, and always will, so if you care to know why I call this place [Circumscribed Man][circ_man], the [[01.01>03 Four Points\|01.01>03 Four Points]] section will roughly explain why. [[03_Medium\|03_Medium]] will tell you what I consume. Initially, I thought of purely sharing my reading list and progress, but to be honest, nowadays, who the hell reads?
+For now, see what I have so far below. If you want to know more about why I bother, check the [[06_About\|06_About]] section, of course. And well, that section lacks, and always will, so if you care to know why I call this place [Circumscribed Man][circ_man], the [[02_Four Points\|02_Four Points]] section will roughly explain why. [[03_Medium\|03_Medium]] will tell you what I consume. Initially, I thought of purely sharing my reading list and progress, but to be honest, nowadays, who the hell reads?
 
 Work!
 
