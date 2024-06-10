@@ -9,8 +9,7 @@ What I like the most about using [Obsidian][obs] is its powerful search capabili
 Before we spiral down a conspiracy theory rabbit hole—which I’m not really interested in (this sounds like something a closeted conspiracy believer would say)—here, peruse this list of tags you can randomly check out:
 
 <hr>
-
-#poetry #poetry/EN #poetry/TL 
+ #home #fourpoints #medium #written #gallery #about #poetry #poetry/EN #poetry/TL 
 
 
 <hr>
