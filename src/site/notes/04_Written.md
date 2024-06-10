@@ -9,10 +9,20 @@
 </div>
 <hr>
 
->[!read] [[Historical/09_Poetry/0001 nameless wind chime\|0001 nameless wind chime]]
+>[!quote] [[Historical/09_Poetry/0001 nameless wind chime\|0001 nameless wind chime]]
 >a creaking, then a thud, then nothing
 after gusts of wind siege through the silence
 of his room, it was him, all along, a nameless
 wind chime suspended by the lace of his work I.D.
 on the same nail where he thought he would
 hang the dreamcatcher bought last week
+[Continue reading...](https://circumscribedman.xyz/historical/09-poetry/0001-nameless-wind-chime/)
+
+>[!quote] [[Historical/09_Poetry/0002 sabi ko,"’wag mong sabihin."\|0002 sabi ko,"’wag mong sabihin."]]
+>a creaking, then a thud, then nothing
+after gusts of wind siege through the silence
+of his room, it was him, all along, a nameless
+wind chime suspended by the lace of his work I.D.
+on the same nail where he thought he would
+hang the dreamcatcher bought last week
+[Continue reading...](https://circumscribedman.xyz/historical/09-poetry/0002-sabi-ko-wag-mong-sabihin/)
