@@ -23,8 +23,10 @@ I'm not ready to switch to Windows just because of this because, well, this real
 
 I'd like to "binge write" about how I deep-dived into Existential Psychotherapy with Yalom's book, just because it perfectly coincides with the novel I wrote last year. But at the same time, I know it will take time and is probably better suited for the #fourpoints page.
 
+Now, that's a really weird flex, but what I am getting at is that I just want to create a virtual room where I can dislodge what I have in mind. If this means learning something new, I'll learn all of it.
+
 For now, I'll look for ways to implement web analytics and work on it this coming weekend.
-  
+
 ___
   [^1]: OC. (2016). _“Don’t Try”: Charles Bukowski’s Concise Philosophy of Art and Life_. Open Culture. https://www.openculture.com/2013/02/dont_try_charles_bukowskis_concise_philosophy_of_art_and_life.html
 
