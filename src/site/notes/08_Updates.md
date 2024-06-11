@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/08-updates/"}
 ---
 
-# 2024 June
-___
+# 2024 
+## June
+
 > [!note] [[Posts/11_Thoughts Journal/0001_Let's Do This!\|0001_Let's Do This!]]
 > Tue #June 11 08:47:14 PM PST #2O24 
 > 
