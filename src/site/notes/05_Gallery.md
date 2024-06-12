@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-gallery/"}
+{"dg-publish":true,"permalink":"/05_Gallery/"}
 ---
 
 <html lang="en">
