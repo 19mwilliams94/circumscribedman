@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-four-points/"}
+{"dg-publish":true,"permalink":"/02_Four Points/"}
 ---
 
 <div style="text-align: center;">
