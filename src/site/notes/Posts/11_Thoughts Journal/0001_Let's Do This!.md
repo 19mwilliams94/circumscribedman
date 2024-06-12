@@ -11,7 +11,8 @@ ___
 <div style="text-align: center;">
     <img src="https://i.imgur.com/O9byR9G_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image" style="max-width: 100%; height: auto;">
 </div>
-<hr>
+___
+
 I still have things to do! I really thought I could focus on the content at this point, but I guess I wanted to know how this website would perform from day one and probably have a historical account to look back on. This means that I need to work on analytics. When I looked into how I could enable web analytics, it showed me this:
 
 ![web analytics](https://i.imgur.com/tuXYfb0_d.jpg?maxwidth=520&shape=thumb&fidelity=high)
