@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-updates/"}
+{"dg-publish":true,"permalink":"/08_Updates/"}
 ---
 
 # 2024 
