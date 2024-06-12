@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/01_Home/","tags":["gardenEntry"]}
 ---
 
 
