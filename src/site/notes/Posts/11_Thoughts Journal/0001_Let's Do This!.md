@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/posts/11-thoughts-journal/0001-let-s-do-this/"}
+{"dg-publish":true,"permalink":"/Posts/11_Thoughts Journal/0001_Let's Do This!/"}
 ---
 
 # 0001_Let's Do This!
-#### Tue #June 11 08:47:14 PM PST #2O24
+___
+#### Tue June 11 08:47:14 PM PST 2O24
+#fourpoints #updates 
+___
 
 <div style="text-align: center;">
     <img src="https://i.imgur.com/O9byR9G_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image" style="max-width: 100%; height: auto;">
@@ -26,7 +29,6 @@ I'd like to "binge write" about how I deep-dived into Existential Psychotherapy 
 Now, that's a really weird flex, but what I am getting at is that I just want to create a virtual room where I can dislodge what I have in mind. If this means learning something new, I'll learn all of it.
 
 For now, I'll look for ways to implement web analytics and work on it this coming weekend.
-
 ___
   [^1]: OC. (2016). _“Don’t Try”: Charles Bukowski’s Concise Philosophy of Art and Life_. Open Culture. https://www.openculture.com/2013/02/dont_try_charles_bukowskis_concise_philosophy_of_art_and_life.html
 
