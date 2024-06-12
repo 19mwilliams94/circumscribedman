@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Posts/11_Thoughts Journal/0002 Zettelkasten!/"}
 ---
 
+
 # Zettelkasten!
 ___
 #2O24 #June #updates 
