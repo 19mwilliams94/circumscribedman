@@ -11,7 +11,8 @@ ___
 <div style="text-align: center;">
     <img src="https://i.imgur.com/MJ1YFax_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image" style="max-width: 100%; height: auto;">
 </div>
-___
+<hr>
+
 Yep, I got off on the wrong foot. It's not too bad, and I'm not being overly positive about it, but this should improve everything. I may have to restructure things to accommodate how I want to lay out learning and make new connections from the ideas I already have.
 
 In 30 minutes, I need to go out to play badminton.
