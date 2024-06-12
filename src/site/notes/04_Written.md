@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-written/"}
+{"dg-publish":true,"permalink":"/04_Written/"}
 ---
 
 <div style="text-align: center;">
@@ -14,7 +14,7 @@
 after gusts of wind siege through the silence
 [Continue reading...](https://circumscribedman.xyz/historical/09-poetry/0001-nameless-wind-chime/)
 
->[!quote] [[Posts/09_Poetry/0002 sabi ko,"’wag mong sabihin."\|0002 sabi ko,"’wag mong sabihin."]]
+>[!quote] [[Posts/09_Poetry/0002 sabi ko wag mong sabihin\|0002 sabi ko wag mong sabihin]]
 >kaya ko rin naman e
 na makipagtitigan sa salamin
 [Continue reading...](https://circumscribedman.xyz/historical/09-poetry/0002-sabi-ko-wag-mong-sabihin/)
