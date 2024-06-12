@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-index/"}
+{"dg-publish":true,"permalink":"/07_Index/"}
 ---
 
 # Index
@@ -9,7 +9,7 @@ What I like the most about using [Obsidian][obs] is its powerful search capabili
 Before we spiral down a conspiracy theory rabbit hole—which I’m not really interested in (this sounds like something a closeted conspiracy believer would say)—here, peruse this list of tags you can randomly check out:
 ___
 
- #home #fourpoints #medium #written #gallery #about #poetry #poetry/EN #poetry/TL #June #2O24 
+ #home #fourpoints #medium #written #gallery #about #poetry #poetry_tula/EN #poetry_tula/TL   #updates
 ___
 
 Here's another interesting feature of this website, which is mind-blowing to me at least: you can browse 'Connected Pages,' which, in theory, should resemble your neurons linking to each other. How cool is that!
