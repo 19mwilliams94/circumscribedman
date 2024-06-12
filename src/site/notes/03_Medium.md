@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-medium/"}
+{"dg-publish":true,"permalink":"/03_Medium/"}
 ---
 
 <div style="text-align: center;">
