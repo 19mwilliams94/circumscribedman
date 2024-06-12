@@ -13,7 +13,7 @@
 > [!note] [[Posts/11_Thoughts Journal/0002 Zettelkasten!\|0002 Zettelkasten!]]
 > Wed Jun 12 05:31:42 PM PST 2024
 > 
-> Yep, I got off on the wrong foot. [Continue reading...](https://circumscribedman.xyz/posts/11-thoughts-journal/0001-let-s-do-this/)
+> Yep, I got off on the wrong foot. [Continue reading...](https://circumscribedman.xyz/Posts/11_Thoughts%20Journal/0002%20Zettelkasten!/)
 
 
 
