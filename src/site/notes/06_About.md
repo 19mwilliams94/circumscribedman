@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-about/"}
+{"dg-publish":true,"permalink":"/06_About/"}
 ---
 
 <div style="text-align: center;">
