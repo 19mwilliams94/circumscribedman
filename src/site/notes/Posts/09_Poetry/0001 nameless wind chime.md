@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/posts/09-poetry/0001-nameless-wind-chime/"}
+{"dg-publish":true,"permalink":"/Posts/09_Poetry/0001 nameless wind chime/"}
 ---
 
 # nameless wind chime
+___
+#poetry_tula/EN #written
+___
 
 a creaking, then a thud, then nothing
 after gusts of wind siege through the silence
@@ -54,5 +57,5 @@ and a span of curtain would dance along the sound
 looking back, maybe Either/Or was not that big of a deal
 and maybe shit. was a better way to end his thoughts
 
-#poetry/EN #written
+
 
