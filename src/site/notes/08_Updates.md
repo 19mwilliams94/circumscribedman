@@ -15,6 +15,8 @@
 > 
 > Yep, I got off on the wrong foot. [Continue reading...](https://circumscribedman.xyz/Posts/11_Thoughts%20Journal/0002%20Zettelkasten!/)
 
+> [!note] [[Posts/11_Thoughts Journal/0003 Re-Structuring\|0003 Re-Structuring]]
+> I'm sold on using the 0002 Zettelkasten method, especially after stumbling upon this website: Zettelkasten. Now, I'm mainly going to use Obsidian for this instead of The Archive because, well, Obsidian is free and follows the same principles from what I've read so far. [Continue reading...](https://circumscribedman.xyz/Posts/11_Thoughts%20Journal/0003%20Re-Structuring/)
 
 
 
