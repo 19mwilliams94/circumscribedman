@@ -11,9 +11,9 @@ ___
 **Created: 202406141324**
 
 1. I think this is embracing life as it is
-2. If you'll be born again, will you live the life you have right now?
+2. If you were born again, would you live the life you have right now?
 3. Tie this to Bukowski's [[Don't Try\|Don't Try]] as this is one of the best [[Epitaphs\|Epitaphs]] for me.
-4. Go all the way
+4. Go all the way.
 
 ___
 **References:** [[Thoughts\|Thoughts]]
