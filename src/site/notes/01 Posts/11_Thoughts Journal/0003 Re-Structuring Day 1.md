@@ -8,7 +8,7 @@ ___
 #2O24 #June #updates 
 ___
 
-I'm sold on using the [[01 Posts/11_Thoughts Journal/0002 Zettelkasten!\|0002 Zettelkasten!]] method, especially after stumbling upon this website: [Zettelkasten](https://zettelkasten.de/overview/). Now, I'm mainly going to use [Obsidian](https://obsidian.md/) for this instead of [The Archive](https://zettelkasten.de/the-archive/) because, well, [Obsidian](https://obsidian.md/)  is free and follows the same principles from what I've read so far.
+I'm sold on using the [[01 Posts/11_Thoughts Journal/0003 Zettelkasten!\|0003 Zettelkasten!]] method, especially after stumbling upon this website: [Zettelkasten](https://zettelkasten.de/overview/). Now, I'm mainly going to use [Obsidian](https://obsidian.md/) for this instead of [The Archive](https://zettelkasten.de/the-archive/) because, well, [Obsidian](https://obsidian.md/)  is free and follows the same principles from what I've read so far.
 
 
 And they said it themselves ([Zettelkasten](https://zettelkasten.de/overview/)):
