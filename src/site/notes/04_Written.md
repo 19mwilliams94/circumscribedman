@@ -9,12 +9,12 @@
 </div>
 <hr>
 
->[!quote] [[Posts/09_Poetry/0001 nameless wind chime\|0001 nameless wind chime]]
+>[!quote] [[01 Posts/09_Poetry/0001 nameless wind chime\|0001 nameless wind chime]]
 >a creaking, then a thud, then nothing
 after gusts of wind siege through the silence
 [Continue reading...](https://circumscribedman.xyz/historical/09-poetry/0001-nameless-wind-chime/)
 
->[!quote] [[Posts/09_Poetry/0002 sabi ko wag mong sabihin\|0002 sabi ko wag mong sabihin]]
+>[!quote] [[01 Posts/09_Poetry/0002 sabi ko wag mong sabihin\|0002 sabi ko wag mong sabihin]]
 >kaya ko rin naman e
 na makipagtitigan sa salamin
 [Continue reading...](https://circumscribedman.xyz/historical/09-poetry/0002-sabi-ko-wag-mong-sabihin/)
