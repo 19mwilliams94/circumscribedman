@@ -16,7 +16,5 @@
 
 
 
-___
-**References:**
-&larr;
-&rarr;
+
+
