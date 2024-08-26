@@ -23,7 +23,7 @@ Am I right?
 
 Now, I'll still try to list the books I read and showcase how cultured I am, but then, I'm thinking of sharing impactful media (at least to me). As my friend [McLuhan][mcluhan] once said, "[The medium is the message][misdam]"—whatever that means.
 
-So, the last thing really is that I'm a frustrated writer. So frustrated that I spent time creating this trash of a website oozing with a pretentious minimalist approach and self-deprecation. You can see my work in the [[Written\|Written]] section.
+So, the last thing really is that I'm a frustrated writer. So frustrated that I spent time creating this trash of a website oozing with a pretentious minimalist approach and self-deprecation. You can see my work in the [[Works\|Works]] section.
 
 Enjoy!
 
@@ -33,19 +33,3 @@ Enjoy!
 [mcluhan]: https://en.wikipedia.org/wiki/Marshall_McLuhan
 [misdam]: https://en.wikipedia.org/wiki/The_medium_is_the_message
 
-
-> [!bug] This will be a positive setback!
-> Oof, literally for years! Or even decades, as a lover of note-taking (never mind Stephen King, iykwim, haha), I've been searching for a system to easily track, remember, retrieve, or "juice" documentation. It's a shame *knowledge management* was never introduced in our educational system!
-> 
-> This is a life saver. I have thousands of notes, and I'm sure I can make media files of different formats work as well. I'm daydreaming of a software-agnostic system that can help me in a way that makes sense—then **Zettelkasten** comes along!
-> 
-> This will be positive setback! I'm sure it will take at least two weeks to build the foundation, but then this building will reach greater heights!
-> 
-> **I'll be back!**  
-
-**TEST**
-
-> [!bug] 202408082034 TEST
-
-
-> [!bug] 202408191429 TEST
