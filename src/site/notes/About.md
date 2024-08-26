@@ -1,13 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/About/"}
+{"dg-publish":true,"permalink":"/About/","tags":["gardenEntry"]}
 ---
 
+
 <div style="text-align: center;">
-    <h1>About</h1>
+    <h1>Circumscribed Man</h1>
     <h2>Silence of A Contemplative Life</h2>
-    <img src="https://i.imgur.com/UqwPzKu_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image" style="max-width: 100%; height: auto;">
+    <img src="https://i.imgur.com/c6UQ6gN_d.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image" style="max-width: 100%; height: auto;">
 </div>
-<hr>
+
+# About
+___
+
 Hello there, that’s me in the photo, swimming away from the plunge pool. I swam too carelessly and realized that the undercurrent was way too strong. What the hell am I doing in the first place?
 
 Exactly, this could very well be about those times when I pause my intrusive train of thought and repent. It's really about those quiet moments I intentionally engage in daily. It’s kind of my personal prayer before I start my day and before the day ends. It’s a habit now to just sit quietly, think about the things I have to do, and end the day with a reflection.
