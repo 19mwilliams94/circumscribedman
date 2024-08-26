@@ -20,7 +20,9 @@ I can already see it: no one’s going to notice this site, and no, that’s not
 
 I have social media accounts, but I only use them to check the window, see how the digital world looks, judge people, and close it again for a day or two.
 
-If you want to reach out to me for whatever reason, here’s my email: circumscribed_man@proton.me. Let’s see what we can do together!
+If you want to reach out to me for whatever reason, here’s my email: circumscribed_man@proton.me. 
+
+Let’s see what we can do together!
 ___
 [syw]: https://austinkleon.com/show-your-work/
 [obv]: https://obsidian.md/
