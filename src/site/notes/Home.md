@@ -6,3 +6,6 @@
     <h1>Circumscribed Man</h1>
     <h2>Silence of A Contemplative Life</h2>
 </div>
+<hr>
+
+
