@@ -8,7 +8,6 @@
     <h2>Silence of A Contemplative Life</h2>
     <img src="https://i.imgur.com/UqwPzKu.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image" style="max-width: 100%; height: auto;">
 </div>
-
 ___
 # About
 
