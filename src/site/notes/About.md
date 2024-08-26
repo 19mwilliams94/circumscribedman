@@ -8,7 +8,9 @@
     <h2>Silence of A Contemplative Life</h2>
     <img src="https://i.imgur.com/UqwPzKu.jpg?maxwidth=520&shape=thumb&fidelity=high" alt="Description of the image" style="max-width: 100%; height: auto;">
 </div>
+
 ___
+
 # About
 
 Hello there, that’s me in the photo, swimming away from the plunge pool. I swam too carelessly and realized that the undercurrent was way too strong. What the hell am I doing in the first place?
